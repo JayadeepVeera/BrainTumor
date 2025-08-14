@@ -1,2 +1,4 @@
-sdk: flask
+# huggingface.yml
+sdk: spaces
 app_file: app.py
+hardware: cpu
