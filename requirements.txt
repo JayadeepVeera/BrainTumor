@@ -1,6 +1,6 @@
-streamlit
-tensorflow==2.18.0
-Pillow
-numpy
-opencv-python
+Flask==2.3.3
+tensorflow==2.18
 gdown
+numpy
+pandas
+Pillow
